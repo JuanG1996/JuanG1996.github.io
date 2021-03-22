@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "nombre": "Barberia",
+        "tipoProyecto": "Práctica",
+        "tecnologias": "HTML, CSS, JavaScript + GULP, SASS",
+        "responsive": "Sí",
+        "comentario": "Sitio para crear citas de una Barberia, creada para practicar tecnologías mencionadas",
+        "img": "./build/img/proyecto-barberia.PNG",
+        "web": "https://barberjuan.netlify.app/",
+        "github": "https://github.com/JuanG1996/AppSalon"
+    },  
+    
+    {
+        "id": 2,
+        "nombre": "Rock And EDM Festival",
+        "tipoProyecto": "Práctica",
+        "tecnologias": "HTML, CSS, Javascript + GULP, SASS",
+        "responsive": "Sí",
+        "comentario": "Sitio de practica simulando la venta de boletos para concierto",
+        "img": "./build/img/proyecto-RockAndEdmFestival.PNG",
+        "web": "https://rockandedmfestival.netlify.app/"
+    },
+
+    {
+        "id": 3,
+        "nombre": "Pasteleria Berenice",
+        "tipoProyecto": "Para cliente",
+        "tecnologias": "HTML, CSS, JAVASCRIPT + GULP, SASS",
+        "responsive": "No",
+        "comentario": "Vista del sitio antes de la entrega a cliente (con datos de prueba)",
+        "img": "./build/img/proyecto-pasteleriaberenice.PNG",
+        "web": "https://mandaladesserts.netlify.app/",
+        "github": "https://github.com/JuanG1996/PasteleriaBerenice"
+    },
+
+    {
+        "id": 4,
+        "nombre": "BlogDeCafe",
+        "tipoProyecto": "Práctica",
+        "tecnologias": "HTML, CSS",
+        "responsive": "Sí",
+        "comentario": "Sitio creado para practicar Flexbox y GRID",
+        "img": "./build/img/proyecto-BlogDeCafe.PNG",
+        "web": "https://blogdecafejuan.netlify.app/nosotros.html",
+        "github": "https://github.com/JuanG1996/BlogDeCafe"
+    },
+
+    {
+        "id": 5,
+        "nombre": "Control de presupuesto",
+        "tipoProyecto": "Práctica",
+        "tecnologias": "React",
+        "responsive": "Sí",
+        "comentario": "Practicando React",
+        "img": "./build/img/proyecto-controlPresupuestoReact.PNG",
+        "web": "https://ctrlpresupuestoreact.netlify.app/",
+        "github": "https://github.com/JuanG1996/controlPresupuesto"
+    },
+
+    {
+        "id": 6,
+        "nombre": "Agenda de citas",
+        "tipoProyecto": "Práctica",
+        "tecnologias": "React",
+        "responsive": "Sí",
+        "comentario": "Practicando React",
+        "img": "./build/img/proyecto-agendaCitas.PNG",
+        "web": "https://agendacitasreact.netlify.app/",
+        "github": "https://github.com/JuanG1996/agendaCitas"
+    },
+
+    {
+        "id": 7,
+        "nombre": "Portafolio",
+        "tipoProyecto": "Portafolio de trabajos",
+        "tecnologias": "HTML, CSS, Javascript, PHP + SASS, GULP",
+        "responsive": "Sí",
+        "comentario": "Web hecha como portafolio personal de trabajos",
+        "img": "./build/img/proyecto-portafolio.PNG",
+        "web": "http://portafolio.elbauldelgamer.com/"
+    }
+
+]
